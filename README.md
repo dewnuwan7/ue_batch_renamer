@@ -16,7 +16,8 @@ Tested on UE 5.3 & 5.4
 ![image](https://github.com/user-attachments/assets/32b8b299-3657-46f9-b1db-1f428a99c636)
                             
 
-                          
+
+
 
 **Features**
 
@@ -29,6 +30,9 @@ Tested on UE 5.3 & 5.4
 4. Works with selected assets directly from the Content Browser.
 
 **Supported Asset Types**
+
+
+
 
 
 1. Static Meshes
@@ -66,6 +70,11 @@ Python Editor Script Plugin Enabled
    
 
 **How to Use**
+
+    
+
+https://github.com/user-attachments/assets/63f01921-c46f-45a3-aea0-061a758c6697
+
 
 1. Select the assets you want to rename in the Content Browser.
 
